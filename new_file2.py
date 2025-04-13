@@ -8,6 +8,3 @@ def add3(a,b):
 
 def add212(a,b):
     return a+b
-
-def power(b,p):
-    return b**p
